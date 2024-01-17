@@ -1,13 +1,55 @@
-<h2 align="left">Hi There, I'm Nael!!👋</h2>
+<h2 align="left">Hi there! 👋 I'm Nael, a <br>Passionate Software Engineer 🚀</h2>
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=N-way1&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=N-way1&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img height="200" src=""  />
 </div>
+
+###
+
+<p align="left">Welcome to my GitHub repository! I'm thrilled to have you here. As a software engineer, I am on a perpetual journey of learning, creating, and building exciting projects. Let me give you a glimpse into my world of coding and exploration.</p>
+
+###
+
+<h2 align="left">About Me 💻</h2>
+
+###
+###
+
+<p align="left">I am deeply passionate about crafting elegant and efficient solutions to complex problems. My love for coding goes beyond just writing lines of code; it's about building things that matter and constantly seeking ways to improve and innovate.</p>
+
+###
+
+###
+
+<h2 align="left">🌱 Always Eager to Learn</h2>
+
+###
+###
+
+<p align="left">The ever-evolving nature of technology motivates me to stay on the cutting edge. Whether it's exploring new programming languages, frameworks, or diving into the latest industry trends, I am always eager to expand my knowledge and skill set.</p>
+
+###
+
+###
+
+<h2 align="left">🚀 Building Awesome Software</h2>
+
+###
+###
+
+<p align="left">I believe in the power of well-designed software to make a positive impact. From small utilities to large-scale applications, I enjoy the process of architecting and developing software that not only meets but exceeds expectations.</p>
+
+###
+
+###
+
+<h2 align="left">Let's Connect 🤝</h2>
+
+###
+
+<p align="left">I'm always open to collaboration, feedback, and discussions. If you have a project idea, want to share knowledge, or just chat about technology, don't hesitate to reach out. Let's build something amazing together!</p>
 
 ###
 
