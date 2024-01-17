@@ -7,6 +7,8 @@
 
 </div>
 
+![programer](https://github.com/N-way1/N-way1/assets/98032882/f0a7d0e0-edd2-460e-b23d-ab4ff2c42c92)
+
 ###
 
 <p align="left">Welcome to my GitHub repository! I'm thrilled to have you here. As a software engineer, I am on a perpetual journey of learning, creating, and building exciting projects. Let me give you a glimpse into my world of coding and exploration.</p>
