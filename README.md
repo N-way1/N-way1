@@ -67,3 +67,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/N-way1/N-way1/output/snake.svg" alt="Snake animation" />
+
+###
