@@ -98,7 +98,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/nael-alyousefi-1475561a4/" target="_blank">
+  <a href="https://www.linkedin.com/in/nael-alyousefi/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/n_way1/" target="_blank">
